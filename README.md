@@ -22,4 +22,4 @@ This project is a clean and responsive front-end UI for managing patient appoint
 You can integrate this UI with backend APIs to fetch and store appointment data.
 
 ## Author
-Generated with ❤️ by ChatGPT
+Jalil Khan
